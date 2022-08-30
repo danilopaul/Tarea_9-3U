@@ -11,7 +11,15 @@ NRC: 7318
 
 1.1. Objetivo general:
 
+Analizar las características de los circuitos RLC, resonancia y los filtros pasivos, mediante el análisis de los contenidos planteados, además de fuente bibliográfica confiables, para comprender las relaciones de los resistores, voltajes, corriente, resonancia, tanto que circuitos en serie, paralelo y mixto y resolver correctamente los ejercicios propuestos.
+
 1.2. Objetivos Especificos:
+
+•  Elaborar mapas conceptuales, relacionados con la impedancia de circuitos, análisis de circuitos, los diferentes filtros pasivos en circuitos RLC, para comprender de mejor manera sus características
+
+• Analizar las características de la resonancia en serie y paralelo, así como la frecuencia de resonancia en el análisis de circuitos RLC en serie, paralelo y mixto.
+
+• identificar las posibles fórmulas que permitan resolver los ejercicios planteados de manera clara y precisa, obteniendo lo solicitado en el mismo.
 
 2.Marco Teorico:
 
@@ -236,9 +244,17 @@ e) 30kHz
 
 5.Conclusiones:
 
+•	Un circuito RLC, es un circuito que consiste de una resistencia, un inductor y un capacitor, que pueden estar conectados en serie o paralelo e inclusive combinados, estos tienen, muchas aplicaciones como circuitos osciladores y estos se diferencian entre sí mediante la forma en que están compuestos.
+
+•	Estos circuitos pueden usarse como un filtro de paso de banda, de paso bajo y de paso alto, es decir que un circuito RLC es descrito como un circuito de segundo orden, lo cual quiere decir que cualquier voltaje o corriente presentes en el, puede ser descrito como una ecuación diferencial de segundo orden, para el análisis del respectivo circuito.
+
+•	 Mediante fórmulas y ecuaciones que relacionan los datos desconocidos, no permite desarrollar los problemas planteados de la manera más adecuada, como es el caso para calcular la impedancia, corriente, reactancia ya sea capacitiva o inductiva de un circuito RLC de corriente alterna, teniendo en cuenta de que en la forma polar los cálculos son más sencillos, que estos resultados que relacionan la corriente y voltaje y el ángulo, se lo puede representar mediante un diagrama fasorial.
+
 6.Bibliografia:
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-rlc-natural-response-intuition
 
 
 
