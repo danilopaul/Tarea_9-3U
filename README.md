@@ -20,3 +20,9 @@ NRC: 7318
 ![mapa capitulo 18](https://user-images.githubusercontent.com/105687375/187321638-07fa284a-bd59-4272-a772-414c83ba349a.png)
 
 https://www.canva.com/design/DAFKv00rsXc/Nkie9uVfgbqWsrXikqkdIA/edit?utm_content=DAFKv00rsXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+3.Resolución de ejercicios propuestos:
+
+    Capitulo 17 y 18:   
+ 
+ 
