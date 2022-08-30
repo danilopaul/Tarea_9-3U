@@ -180,7 +180,55 @@ No puede ser Vab = 0 V, ya que, la rama LC no presenta resistencia siendo así q
 
 Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la frecuencia resonante paralela y en serie.
 
-AQUI VA LA PARTE DE SEBAS:
+38. Diseñe una red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 µH con resistencia de devanado de 5 Ω.
+
+![image](https://user-images.githubusercontent.com/105687375/187345219-10a9b333-6989-4283-82d1-e2e4e806b0d0.png)
+
+40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
+
+AB=f2-f1=2800Hz-2400Hz=400Hz
+
+fr=(f1+f2)/2=(2400Hz+2800Hz)/2=2600Hz
+
+42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
+
+w=1/√(L×C)=1/√8kHz
+
+w=0.35kHz
+
+    Capítulo 18
+
+2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas: 
+
+(a) 100 Hz = permite
+
+(b) 1 kHz = permite
+
+(c) 2 kHz = permite
+
+(d) 3 kHz = permite
+
+(e) 5 kHz = permite
+
+4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent 5 V. 
+
+![image](https://user-images.githubusercontent.com/105687375/187345440-9b49732e-1494-49f8-9155-d8dbacd6b4e8.png)
+
+![image](https://user-images.githubusercontent.com/105687375/187345498-8be8c80a-2afc-4099-be0c-1f333fddce14.png)
+
+6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
+
+![image](https://user-images.githubusercontent.com/105687375/187345624-c74ed88f-9e72-44cc-9fcb-61ee750446b0.png)
+
+![image](https://user-images.githubusercontent.com/105687375/187345688-dc4686ad-e4c3-4e67-b006-09fa3f84326c.png)
+
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB: 
+
+![image](https://user-images.githubusercontent.com/105687375/187345730-8b1be969-aa9a-4896-8767-4d5d4cc1d136.png)
+
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc 1 kHz): 
+
+![image](https://user-images.githubusercontent.com/105687375/187345780-11da4a73-0c9a-4b95-bdf3-6d6ed7d694c4.png)
 
 12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
 
