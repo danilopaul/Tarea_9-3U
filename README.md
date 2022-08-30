@@ -112,6 +112,12 @@ BC= 1/(XC< -90°) =  1/(6056<-90°)  = 1.65x〖10〗^(-4) <40° kS
 
 BL= 1/(XL< 90°) =  1/(1.13<90°)  = 880 <-90° kS
 
+Análisis de circuitos RLC en paralelo
+
+20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.
+
+![image](https://user-images.githubusercontent.com/105687375/187324822-865b4d0a-a3bb-4d0e-9525-d56833855e85.png)
+![image](https://user-images.githubusercontent.com/105687375/187324899-9f3c6c5b-0143-43e2-8616-1f8b8c5b7dcc.png)
 
 
 
