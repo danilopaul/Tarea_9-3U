@@ -172,6 +172,73 @@ No puede ser Vab = 0 V, ya que, la rama LC no presenta resistencia siendo así q
 
 Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la frecuencia resonante paralela y en serie.
 
+AQUI VA LA PARTE DE SEBAS:
+
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+fc=50Hz
+
+a) 1Hz
+
+-Frecuencia rechazada debido a que es menor que 50 Hz.
+
+b) 20Hz
+
+-Frecuencia rechazada debido a que es menor que 50 Hz.
+
+c) 50Hz
+
+-Frecuencia Crítica.
+
+d) 60Hz
+
+-Permite pasar esta frecuencia ya que es mayor a 50 Hz.
+
+e) 30kHz
+
+-Permite pasar esta frecuencia ya que es mayor a 50 Hz.
+
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent =10 V).
+
+![image](https://user-images.githubusercontent.com/105687375/187326709-e9002308-3327-408a-adea-f04d191a4f7c.png)
+
+![image](https://user-images.githubusercontent.com/105687375/187326741-72109853-3613-4bef-a773-b15c2b36cb45.png)
+
+16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
+
+![image](https://user-images.githubusercontent.com/105687375/187326796-ea62298f-57d9-4023-bceb-2009713b2175.png)
+
+![image](https://user-images.githubusercontent.com/105687375/187326863-94ce07f1-dbeb-4743-807c-4224d96a0277.png)
+
+18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10Ω, determine el ancho de banda para cada filtro.
+
+![image](https://user-images.githubusercontent.com/105687375/187326900-3cb960a7-1ade-4580-a30f-3f82e6c7db26.png)
+
+![image](https://user-images.githubusercontent.com/105687375/187327065-3a0900bf-bc0a-4509-800a-f824080931c8.png)
+
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
+
+![image](https://user-images.githubusercontent.com/105687375/187327163-efe8a758-9c15-4b42-bdb9-451c22aa6d61.png)
+
+24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
+
+![image](https://user-images.githubusercontent.com/105687375/187327197-587fa1e4-e193-4f4e-8942-9966d0416d05.png)
+
+![image](https://user-images.githubusercontent.com/105687375/187327260-9fb48a56-2b0c-4af8-9d73-86956bd441c4.png)
+
+26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
+
+![image](https://user-images.githubusercontent.com/105687375/187327305-5f43abe0-c74c-401c-a3d0-eb563888f93a.png)
+
+![image](https://user-images.githubusercontent.com/105687375/187327362-8f650ae1-ec1f-4453-a250-43e926dc40ba.png)
+
+4.Video:
+
+5.Conclusiones:
+
+6.Bibliografia:
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
 
 
 
