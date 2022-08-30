@@ -242,6 +242,8 @@ e) 30kHz
 
 4.Video:
 
+https://youtu.be/q0iL0i_tU9c
+
 5.Conclusiones:
 
 •	Un circuito RLC, es un circuito que consiste de una resistencia, un inductor y un capacitor, que pueden estar conectados en serie o paralelo e inclusive combinados, estos tienen, muchas aplicaciones como circuitos osciladores y estos se diferencian entre sí mediante la forma en que están compuestos.
